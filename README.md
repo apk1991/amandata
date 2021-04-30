@@ -1,3 +1,3 @@
 # amandata
-# sd kf hljf
-# asd yh wdcv
+* amandata *
+_amandata_
